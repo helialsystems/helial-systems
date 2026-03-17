@@ -7,4 +7,4 @@ The company conducts research in advanced computational architectures across ele
 This repository serves as a public reference point for Helial Systems.
 
 Website:
-https://helialsystems.com# helial-systems
+https://helialsystems.com
